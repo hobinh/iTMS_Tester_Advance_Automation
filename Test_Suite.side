@@ -313,38 +313,6 @@
       ],
       "value": "An email address required."
     }]
-  }, {
-    "id": "e980615b-a339-473e-ae62-94dd9619a15c",
-    "name": "Tmp",
-    "commands": [{
-      "id": "32fab81e-dad5-41cc-aca6-9c39bb26ec10",
-      "comment": "",
-      "command": "open",
-      "target": "http://www.practiceselenium.com/practice-form.html?fbclid=IwAR27HLXCX-R3250BoyKua8bq1uYLXhAPP--7F7GiWVK_vt-NQKP5HMRBbOI",
-      "targets": [],
-      "value": ""
-    }, {
-      "id": "bd939001-df0f-41ca-a7e8-53e110f99a00",
-      "comment": "",
-      "command": "setWindowSize",
-      "target": "1050x708",
-      "targets": [],
-      "value": ""
-    }, {
-      "id": "0c894514-9b2b-4ceb-b4e2-31d211df6ec7",
-      "comment": "",
-      "command": "click",
-      "target": "id=sex-0",
-      "targets": [
-        ["id=sex-0", "id"],
-        ["name=sex", "name"],
-        ["css=#sex-0", "css:finder"],
-        ["xpath=//input[@id='sex-0']", "xpath:attributes"],
-        ["xpath=//div[@id='wsb-element-00000000-0000-0000-0000-000452032346']/div/form/fieldset/div[2]/p[2]/input", "xpath:idRelative"],
-        ["xpath=//div[2]/p[2]/input", "xpath:position"]
-      ],
-      "value": ""
-    }]
   }],
   "suites": [{
     "id": "bdb3efd4-93fc-4014-9844-c0a63007eb26",
